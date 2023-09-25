@@ -10,7 +10,7 @@
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
   {:title => 'Shutter Island', :rating => 'R',
-    :release_date => '19-Feb-2010'}
+    :release_date => '19-Feb-2010'},
   {:title => 'My Neighbor Totoro', :rating => 'G',
     :release_date => '16-Apr-1988'},
   {:title => 'Green Book', :rating => 'PG-13',
